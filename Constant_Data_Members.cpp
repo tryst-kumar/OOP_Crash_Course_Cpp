@@ -8,7 +8,7 @@ using namespace std;
 */
 
 class MyClass {
-public:
+private:
     const int const_private_var;
     int private_var;
 public:
